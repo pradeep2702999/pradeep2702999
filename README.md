@@ -4,11 +4,10 @@
 
 
 ###
-<h1 data-importer="text" align="center">hey there 👋</h1>
-###
-###
+<h1 data-importer="text" align="center">Hey there 👋  I am Pradeep  🙋‍♂️ </h1>
+
 <h3 data-importer="text" align="left">👩‍💻  About Me</h3>
-###
+
 <p data-importer="text" align="left">
 🎓 Computer Science & Engineering undergraduate at NIT Silchar (Class of 2027)<br>
 
