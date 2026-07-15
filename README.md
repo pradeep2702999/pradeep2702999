@@ -93,9 +93,10 @@
 
 | Project | Tech Stack | Highlights | Repository |
 |:--------|:-----------|:-----------|:-----------|
+| 🩺 **Diagno** | MERN Stack • TensorFlow • Machine Learning | Disease Prediction • Medical Image Classification • Secure Patient Management | [View Repository](https://github.com/GVBharadwaj18/Diagno) |
 | 🏆 **HackSphere** | React • TypeScript • Supabase • PostgreSQL | Role-based Authentication • Judge0 API Integration • Modern Dashboard | [View Repository](https://github.com/pradeep2702999/hack-sphere) |
 | 🧠 **Second Brain** | React • Node.js • Express.js • MongoDB | JWT Authentication • Secure Note Management • Responsive UI | [View Repository](https://github.com/pradeep2702999/Second-brain) |
-| 🩺 **Diagno** | MERN Stack • TensorFlow • Machine Learning | Disease Prediction • Medical Image Classification • Secure Patient Management | [View Repository](https://github.com/GVBharadwaj18/Diagno) |
+
 
 ---
 
