@@ -1,7 +1,5 @@
 <p align="center">
-
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
-
+  <img src="https://plus.unsplash.com/premium_photo-1768678544538-152440e975eb?q=80&w=1032&auto=format&fit=crop" width="850" alt="Cyber Developer Workspace">
 </p>
 
 
