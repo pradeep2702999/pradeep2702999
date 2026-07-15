@@ -15,10 +15,11 @@
 ## 👨‍💻 About Me
 - 🎓 Computer Science & Engineering undergraduate at **NIT Silchar (Class of 2027)**
 - 💻 Passionate about **Full-Stack Development** and building scalable, user-centric web applications
-- 🤖 Exploring **Machine Learning** to create intelligent solutions for real-world problems
+- 🤖 Building Machine Learning applications to solve real-world problems
 - 🧠 Strong foundation in **Data Structures, Algorithms, and Core Computer Science fundamentals**
 - 🏆 Competitive Programming enthusiast with a passion for solving challenging problems
 - 🚀 Continuously learning, building, and improving software that makes an impact
+
 ---
 ## 🌐 Connect with Me
 
@@ -95,8 +96,8 @@
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pradeep2702999&layout=compact&theme=tokyonight" />
 </p>
 ---
-<h3 align="center">
-Thanks for visiting! ⭐ <br>
-Feel free to connect, collaborate, or explore my projects.
-</h3>
+<p align="center">
+⭐ Thanks for visiting my profile! <br>
+I'm always open to collaborating on interesting projects and learning new technologies.
+</p>
 
