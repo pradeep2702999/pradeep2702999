@@ -88,12 +88,94 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white)
 
 ---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+## 🏆 HackSphere
+Full-Stack Hackathon Management Platform
+
+**Tech Stack:** React • TypeScript • Supabase • PostgreSQL
+
+✔ Role-based authentication
+
+✔ Team & Hackathon Management
+
+✔ Judge0 API Integration
+
+✔ Modern Responsive UI
+
+🔗 **Repository:**  
+https://github.com/pradeep2702999/hack-sphere
+
+</td>
+
+<td width="50%">
+
+## 🧠 Second Brain
+Personal Knowledge Management System
+
+**Tech Stack:** React • Node.js • Express.js • MongoDB
+
+✔ JWT Authentication
+
+✔ Save & Organize Notes
+
+✔ Secure User Management
+
+✔ Responsive Dashboard
+
+🔗 **Repository:**  
+https://github.com/pradeep2702999/Second-brain
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="50%">
+
+## 🩺 Diagno
+AI Powered Medical Diagnosis Platform
+
+**Tech Stack:** MERN • TensorFlow • CNN • Machine Learning
+
+✔ Disease Prediction
+
+✔ Medical Image Classification
+
+✔ Secure Patient Management
+
+✔ AI Assisted Diagnosis
+
+🔗 **Repository:**  
+https://github.com/GVBharadwaj18/Diagno
+
+</td>
+
+<td width="50%">
+
+Coming Soon...
+
+🚀 More exciting projects are on the way.
+
+</td>
+</tr>
+</table>
+
+---
 ## 📊 GitHub Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pradeep2702999&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pradeep2702999&layout=compact&theme=tokyonight" />
 </p>
----
+
 <p align="center">
 ⭐ Thanks for visiting my profile! <br>
 I'm always open to collaborating on interesting projects and learning new technologies.
