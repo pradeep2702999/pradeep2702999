@@ -1,10 +1,12 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212750220-9fd3d9cf-6a64-4d2e-a0b8-733b6e5c83e5.gif" width="500">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
 
 ###
 <h1 align="center">Hi there 👋 I'm Kattamuri Pradeep</h1>
-<h3 align="center">Computer Science Undergraduate | Full-Stack Developer | Machine Learning Enthusiast</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=3BA4F2&center=true&vCenter=true&width=700&lines=Computer+Science+Undergraduate;Full-Stack+Developer;Machine+Learning+Enthusiast;Competitive+Programmer" />
+</p>
 
 ---
 ## 👨‍💻 About Me
