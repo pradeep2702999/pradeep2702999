@@ -1,2 +1,12 @@
 # 💫 About Me:
-🎓 Computer Science & Engineering undergraduate at NIT Silchar (Class of 2027)<br><br>💻 Full-Stack Developer passionate about building scalable and efficient web applications<br><br>🤖 Exploring Machine Learning and intelligent systems to solve real-world challenges<br><br>🧠 Strong problem-solving skills with 400+ DSA problems solved on LeetCode<br><br>🏆 Competitive Programming enthusiast with a focus on writing clean and efficient code<br><br>🚀 Lifelong learner, always exploring new technologies and building impactful projects
+🎓 Computer Science & Engineering undergraduate at NIT Silchar (Class of 2027)
+
+💻 Passionate about Full-Stack Development and building scalable, user-centric web applications
+
+🤖 Exploring Machine Learning to create intelligent solutions for real-world problems
+
+🧠 Strong foundation in Data Structures, Algorithms, and Core Computer Science fundamentals
+
+🏆 Competitive Programming enthusiast with a passion for solving challenging problems
+
+🚀 Continuously learning, building, and improving software that makes an impact
